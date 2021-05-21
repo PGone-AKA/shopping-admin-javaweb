@@ -96,7 +96,7 @@
                     <tbody>
                         <tr>
                             <td >
-                                <a class="x-a" href="/" target="_blank">商品管理系统-admin 2.0上线了</a>
+                                <a class="x-a" href="/" target="_blank">本网站处于测试阶段！逐步完善中！</a>
                             </td>
                         </tr>
                         <tr>

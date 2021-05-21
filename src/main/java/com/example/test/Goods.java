@@ -15,6 +15,13 @@ public class Goods {
         this.stock = stock;
     }
 
+    public Goods(String gname, double bid, double price, int stock) {
+        this.gname = gname;
+        this.bid = bid;
+        this.price = price;
+        this.stock = stock;
+    }
+
     public int getGid() {
         return gid;
     }

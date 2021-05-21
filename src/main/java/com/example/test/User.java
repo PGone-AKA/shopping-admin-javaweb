@@ -21,6 +21,15 @@ public class User {
         this.date = date;
     }
 
+    public User(String name, String pd, String sex, int age, long phone, double balance) {
+        this.name = name;
+        this.pd = pd;
+        this.sex = sex;
+        this.age = age;
+        this.phone = phone;
+        this.balance = balance;
+    }
+
     public User(int id, String name, String pd, String sex, int age, long phone, double balance, String date) {
         this.id = id;
         this.name = name;

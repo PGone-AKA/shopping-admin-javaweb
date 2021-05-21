@@ -19,6 +19,9 @@ public class MemEditServlet extends HttpServlet {
         int ag = Integer.parseInt(age);
         long pho = Long.parseLong(phone);
         double dou = Double.parseDouble(balance);
+        System.out.println(id);
+        System.out.println(sex);
+        System.out.println(phone);
         AdminDao.editUser(request,id,sex,ag,pho,dou);
 
 

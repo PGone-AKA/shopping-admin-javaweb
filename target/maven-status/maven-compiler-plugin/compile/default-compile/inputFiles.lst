@@ -11,7 +11,9 @@ D:\Programs\Java\javaweb\src\main\java\com\example\test\User.java
 D:\Programs\Java\javaweb\src\main\java\com\example\test\Goods.java
 D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\TwoServlet.java
 D:\Programs\Java\javaweb\src\main\java\com\example\dao\AdminDao.java
+D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\GoodsAddServlet.java
 D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\GoodListServlet.java
+D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\UserAddServlet.java
 D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\OneServlet.java
 D:\Programs\Java\javaweb\src\main\java\com\example\tools\JdbcUtil.java
 D:\Programs\Java\javaweb\src\main\java\com\example\test\Record.java
@@ -21,5 +23,4 @@ D:\Programs\Java\javaweb\src\main\java\com\example\test\Welcome.java
 D:\Programs\Java\javaweb\src\main\java\com\example\filter\LoginFilter.java
 D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\AdminExitServlet.java
 D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\WelcomeServlet.java
-D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\addUserServlet.java
 D:\Programs\Java\javaweb\src\main\java\com\example\javaweb\FindAllUserServlet.java
