@@ -11,6 +11,7 @@ com\example\javaweb\AdminExitServlet.class
 com\example\javaweb\AdminServlet.class
 com\example\javaweb\UserAddServlet.class
 com\example\javaweb\FindAllUserServlet.class
+com\example\test\Status.class
 com\example\test\Welcome.class
 com\example\dao\WelcomeDao.class
 com\example\javaweb\UserDelServlet.class

@@ -38,7 +38,9 @@ public class AdminDao {
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }finally {
-            util.close(request,rs);
+            if (rs!=null){
+                util.close(request,rs);
+            }
         }
         return false;
     }
@@ -61,7 +63,9 @@ public class AdminDao {
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }finally {
-            util.close(request,rs);
+            if (rs!=null){
+                util.close(request,rs);
+            }
         }
         return userList;
     }
@@ -81,7 +85,10 @@ public class AdminDao {
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }finally {
-            util.close(rs);
+            if (rs!=null){
+                util.close(rs);
+            }
+
         }
         return userList;
     }
@@ -162,7 +169,9 @@ public class AdminDao {
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }finally {
-            util.close(request,rs);
+            if (rs!=null){
+                util.close(request,rs);
+            }
         }
         return records;
 
@@ -184,7 +193,9 @@ public class AdminDao {
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }finally {
-            util.close(request,rs);
+            if (rs!=null){
+                util.close(request,rs);
+            }
         }
         return  list;
     }
