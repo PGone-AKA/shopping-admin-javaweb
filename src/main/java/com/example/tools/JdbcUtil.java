@@ -1,16 +1,14 @@
 package com.example.tools;
 
-
-import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
 import java.sql.*;
 import java.util.Iterator;
 import java.util.Map;
 
 public class JdbcUtil {
-    private static final String URL = "jdbc:mysql://82.157.179.149:3306/supermarket?useSSL=false&allowPublicKeyRetrieval=true";
+    private static final String URL = "jdbc:mysql://localhost:3306/supermarket?useSSL=false&allowPublicKeyRetrieval=true";
     private static final String USER = "root";
-    private static final String PD = "Yang521.";
+    private static final String PD = "yang611612";
     private Connection conn;
     private PreparedStatement ps;
     static {
