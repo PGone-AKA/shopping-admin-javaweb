@@ -1,4 +1,4 @@
-# shopping-admin-web
+# shopping-web-admin
 第一个javaweb小项目没有用到框架
 
 商品管理系统后端web界面
