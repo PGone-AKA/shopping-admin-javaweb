@@ -1,6 +1,7 @@
 # shopping-web-admin
-第一个javaweb小项目没有用到框架
+超市后台管理系统
 
+第一个javaweb小项目没有用到框架
 商品管理系统后端web界面
 
 界面UI用的adminUI
